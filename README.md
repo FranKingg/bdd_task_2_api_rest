@@ -226,9 +226,3 @@ uv run litestar run
 ✔ Datos iniciales incluidos  
 
 ---
-
-## 👨‍🎓 Autor
-
-**Franco Cartes**  
-Ingeniería en Computación e Informática  
-Universidad de Magallanes (UMAG)
