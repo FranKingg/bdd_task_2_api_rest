@@ -1,0 +1,3 @@
+DATABASE_URL=postgresql+psycopg2://postgres:password@localhost:5432/data_base
+DEBUG=true
+JWT_SECRET=super_secreto_123
