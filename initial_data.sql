@@ -8,7 +8,7 @@ INSERT INTO categories (id, name, description, created_at, updated_at) VALUES
 (5, 'Fantasía', 'Mundos fantásticos', '2025-11-20T00:05:00+00:00', '2025-11-20T00:05:00+00:00');
 
 INSERT INTO users (id, username, fullname, password, email, phone, address, is_active, created_at, updated_at) VALUES
-(1, 'user1', 'Usuario Uno', '$argon2id$v=19$m=65536,t=3,p=4$jum3SLwgJzzwzBJzKahMJg$4LoguOzmoQ3oexJWQqOLWrvyPjX5HkDU6MF5XBt101g', 'user1@example.com', '+56911111111', 'Punta Arenas', TRUE, '2025-11-20T01:41:00+00:00', '2025-11-20T01:41:00+00:00'),
+(1, 'user1', 'Usuario Uno', '$argon2id$v=19$m=65536,t=3,p=4$PTAD4R7nmkWfvakl2psGAg$XvzzJOCvVRsmLnTzXtySqrds5bt1T5iNRbmViWO4yPE', 'user1@example.com', '+56911111111', 'Punta Arenas', TRUE, '2025-11-20T01:41:00+00:00', '2025-11-20T01:41:00+00:00'),
 (2, 'user2', 'Usuario Dos', '$argon2id$v=19$m=65536,t=3,p=4$BVsI6E5+bR3g4zHH4OwuCA$WAmGows+EiFS12fdMA+Er6DC+AoN4RO5gDI9Lrgs/Cw', 'user2@example.com', NULL, NULL, TRUE, '2025-11-20T01:42:00+00:00', '2025-11-20T01:42:00+00:00'),
 (3, 'user3', 'Usuario Tres', '$argon2id$v=19$m=65536,t=3,p=4$0MzsHoJYc6U+yQc+xMylOA$LgpdWyDZstbYJ7GL2VfeeZPRTUU/hRplPNOgmEQNDoA', 'user3@example.com', '+56933333333', 'Puerto Natales', TRUE, '2025-11-20T01:43:00+00:00', '2025-11-20T01:43:00+00:00'),
 (4, 'user4', 'Usuario Cuatro', '$argon2id$v=19$m=65536,t=3,p=4$MA/xp2gh/IfZS3wCCbAeyw$VH1dkLTF6t5p0msB5QPL8y9UCCB12t33RX6J3JzQPUw', 'user4@example.com', NULL, 'Santiago', FALSE, '2025-11-20T01:44:00+00:00', '2025-11-20T01:44:00+00:00'),
